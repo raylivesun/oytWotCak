@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="" width="" height="" border="0">
+    <!-- e.g arts of connection in compilation about manuals -->
+    <![CDATA[ e.g ]]>
+    <data>
+        <arts id="" names="" border="0">
+              <port id="" client="" border="">
+                  <!-- e.g connection of port to local series stream path -->
+              </port>
+              <local id="path" stream="series">
+                   <path series="OpenModelica">
+                       <!-- e.g connection of languages -->
+                   </path>
+                   <series OpenModelica="languages">
+                      <!-- e.g connection of languages -->
+                   </series>
+              </local>
+            <types latter="index" parser="version" freezer="/flesh/|/fallback/|/susages/|/yorgut/">
+                  <index id="topic" append="[A-Z-0..8512]">
+                       <!-- e.g connection of layout freezer-->
+                  </index>
+                  <parser id="sides(left, right)" names="judges">
+                      <!-- e.g connection of layout parser-->
+                  </parser>
+                  <freezer id="local">
+                     <!-- e.g connection of salvation of layout-->
+                  </freezer>
+            </types>
+          <check id="local" local="tree">
+
+               <local id="ipc" address="http://">
+                    <!-- e.g connection of layout local --> 
+               </local>
+
+               <address let="goal">
+                  <!-- e.g goal connections -->
+               </address>
+          </check>
+          <develop story="files:///">
+             <!-- e.g connection of layout local develop -->
+          </develop>
+          <rights event="topic">
+             <!-- e.g call to topic of OK of connections -->     
+          </rights>
+          <left event="topic">
+            <!-- e.g call to topic of OK of connections -->     
+          </left>
+          <documents id="fill-gates" event="topic" local="adrress">
+               <fill-gates topic="ipc">
+                   <!-- e.g topic connection of fill gates -->
+               </fill-gates>
+               <topic breaking="news" local="address">
+                    <layout arts="0.0.1">
+                      <!-- e.g first arts of layout of connections --> 
+                    </layout>
+               </topic>
+               <local include="offlines|onlines">
+                    <material id="next">
+                       <!-- e.g first arts connection of include next -->
+                    </material> 
+               </local>                  
+          </documents> 
+          <partial latter="[A-Z-0..8512]" stream="8512">
+               <!-- e.g first latter of connections of layout stream -->
+          </partial>
+          <across circles="layout" partial="next|before|after">
+               <layout arts="0.0.2">
+                   <!-- arts local partial -->
+               </layout>
+               <next id="lives">
+                    <!-- e.g connection layout stream lives -->
+               </next>
+               <before id="lives">
+                <!-- e.g connection layout stream lives -->
+               </before>
+               <after id="lives">
+                <!-- e.g connection layout stream lives -->
+               </after>           
+          </across>
+          <tips id="layout" address="files" debugger="files">
+               <layout event="topic" id="tile" nick="cat">
+                    <!-- e.g connection layout current local path stream -->  
+               </layout>
+               <files script="extensions">
+                    <!-- e.g connection layout files extensions--> 
+               </files>
+          </tips>
+          <quiz packages="download|uploads|upgrade">
+                <!-- e.g connection layout international packages -->
+          </quiz>
+          <current id="consumer-sentiment" address="local" path="local">
+              <consumer-sentiment tips="debugger-files">
+                   <!-- e.g connections to topic OK layout tile cating --> 
+              </consumer-sentiment>
+              <local layout="webfiles">
+                  <!-- e.g connections to topic OK layout right and left -->
+              </local>
+              <path id="international">
+                 <!-- e.g connections to balues topic and stream local path --> 
+              </path>
+          </current>
+         <Entertainment pier="business" tech="support-center" palm="handle">
+              <business images="itself" layout="main">
+                  <!-- e.g connections to layout itsel main-->
+              </business>
+              <support-center OK="topic" nick="cat" rules="gates">
+                  <!-- e.g connections to layout cat views it layout -->  
+              </support-center>
+              <handle local="protected">
+                  <!-- e.g connections to layoyut protected handle -->
+              </handle>
+         </Entertainment>
+         <since id="international" face="news">
+              <international link="govern-judges">
+                  <!-- e.g connections to layout linked govern judges -->  
+              </international>  
+         </since>    
+        </arts>    
+    </data>
+ </window>

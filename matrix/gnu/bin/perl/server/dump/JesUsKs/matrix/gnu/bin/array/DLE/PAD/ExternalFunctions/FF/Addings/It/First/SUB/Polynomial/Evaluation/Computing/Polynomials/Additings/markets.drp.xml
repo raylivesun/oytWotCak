@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="markets" var="tools-checkup" extension="*.drp" local="foundations"> 
+     <markets zip="hackers" pilltwo="headers.drp" org="apples" com="microsoft">
+
+        <tools-checkup develop="story" search="files:///" national="congress">
+
+            <fundations id="e.g.microsoft" name="Eletrical Engine Microsoft" path="foundations/Eletrical/Engine/Microsoft">
+
+                  <!-- markets drp foundations  -->
+
+            </fundations>
+
+        </tools-checkup>
+
+     </markets>
+</window>
