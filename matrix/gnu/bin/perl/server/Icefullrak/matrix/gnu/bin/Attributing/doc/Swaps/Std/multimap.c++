@@ -1,0 +1,141 @@
+//------------------------------------------------------
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <arpa/inet.h>
+#include <netdb.h>
+#include <pthread.h>
+#include <signal.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <fcntl.h>
+#include <errno.h>
+#include <dirent.h>
+#include <time.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/ipc.h>
+#include <sys/shm.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+#include <sys/wait.h>
+#include <sys/stat.h>
+#include <sys/mman.h>
+#include <sys/sem.h>
+#include <sys/msg.h>
+#include <sys/ioctl.h>
+#include <sys/utsname.h>
+#include <sys/vfs.h>
+#include <sys/sysinfo.h>
+#include <sys/time.h>
+#include <sys/resource.h>
+
+#include <algorithm>
+#include <iostream>
+#include <map>
+ 
+int main()
+{
+    std::multimap<int, char> alice{{1, 'a'}, {2, 'b'}, {3, 'c'}};
+    std::multimap<int, char> bob{{7, 'Z'}, {8, 'Y'}, {9, 'X'}, {10, 'W'}};
+ 
+    auto print = [](std::pair<const int, char>& n)
+    {
+        std::cout << ' ' << n.first << ':' << n.second;
+    };
+ 
+    // Print state before swap
+    std::cout << "Alice:";
+    std::for_each(alice.begin(), alice.end(), print);
+    std::cout << "\n" "Bob  :";
+    std::for_each(bob.begin(), bob.end(), print);
+    std::cout << '\n';
+ 
+    std::cout << "-- SWAP\n";
+    std::swap(alice, bob);
+ 
+    // Print state after swap
+    std::cout << "Alice:";
+    std::for_each(alice.begin(), alice.end(), print);
+    std::cout << "\n" "Bob  :";
+    std::for_each(bob.begin(), bob.end(), print);
+    std::cout << '\n';
+}

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window id="beeprogram">
+    <apis names="program" type="guides" doc="beeprogram.org/documentation">
+          <program names="guides">
+               <guides doc="beeprogram.org/documentation">
+                    <!-- documentation bee program to guies information programming --> 
+               </guides> 
+          </program> 
+    </apis>
+    <pass long="search://documentation">
+          <documentation start="guides">
+               <guides doc="beeeprogram.org/documentation">
+                    <!-- documentation bee program pass comprihencivelly guides -->
+               </guides>
+          </documentation> 
+    </pass>
+    <output cycles="comprihencivelly">
+         <!-- guides cycles bee programming -->  
+    </output>
+    <dialog names="news" type="documentation">
+          <news documentation="switch/types/output">
+                <!-- rules cycles to output --> 
+          </news> 
+    </dialog>
+    <spaces cycles="output">
+       <!-- degree cycles to spaces -->
+    </spaces>
+    <agents safes="pages" dialog="pattern">
+          <pages pattern="family">
+               <family>
+                <!-- pattern family pages -->
+               </family>
+          </pages>
+    </agents>
+    <property settings="local" local="address">
+         <local ipc="address">
+              <address cycles="http://">
+                  <!-- fireworks connection happy family pattern -->
+              </address>
+         </local>
+    </property>
+    <application names="beeprogram.org/download">
+        <download packages="archives">
+              <archives>
+                <!-- version download packages bee program -->
+              </archives>
+        </download>
+    </application>
+    <minister storages="netbees" editor="netbees">
+          <netbees govern="editor/free">
+              <editor free="netbees">
+                 <!-- netbees programming editor and documentation comprihencivelly --> 
+              </editor>
+          </netbees>
+    </minister>
+    <forum names="beeprogram.org/forum">
+         <!-- forum bee programming documentation  -->  
+    </forum>
+    <analysis names="netrices">
+         <netrices servers="http://localhost">
+             <localhost pages="beeprogram.org/documentation/servers">
+                 <!-- server bee programming documenation servers -->
+             </localhost> 
+         </netrices> 
+    </analysis>
+    <electron engine="netrices" local="pattern" type="family">
+         <netrices pattern="family">
+               <family chaps="local">
+                   <local confirm="yes|no">
+                       <yes>
+                        <!-- electorns programing bee program documenation netrices onlines -->
+                       </yes>
+                       <no>
+                        <!-- electorns programing bee program documenation netrices offlines -->
+                       </no>  
+                   </local>
+               </family>
+               <events indicates="pages" cursor="programming">
+                    <pages programming="foofucas">
+                           <foofucas dialog="honey">
+                               <honey bee="program">
+                                    <program names="foo.out">
+                                        <!-- foo programing -->
+                                    </program> 
+                               </honey> 
+                           </foofucas> 
+                    </pages>
+               </events>
+         </netrices>
+         <indication names="foofucas/honey">
+              <foofucas honey="programming" packages="honey">
+                   <programming honey="wines">
+                        <wines antis="switch/types" types="i.e">
+                            <switch type="i.e">
+                                  <i.e names="latters">
+                                     <!-- guava jam -->
+                                  </i.e>
+                            </switch>
+                        </wines>  
+                   </programming>
+              </foofucas>
+         </indication>
+         <guava_jam honey="foofucas/jam">
+             <foofucas jam="readers">
+                  <readers split="banana/stew">
+                       <banana stew="analysis">
+                           <analysis develop="files">
+                               <![CDATA[ foofucas honey guava jam ]]> 
+                           </analysis> 
+                       </banana>
+                  </readers>
+             </foofucas>  
+         </guava_jam> 
+    </electron>    
+</window>
